@@ -1,4 +1,4 @@
-package com.example.springadvanced;
+package hello.advanced.aop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
