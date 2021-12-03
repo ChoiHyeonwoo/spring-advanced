@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class HelloTraceV1Test {
+class HelloTraceV1Test {
 
     @Test
     void begin_end (){
